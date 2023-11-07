@@ -56,6 +56,6 @@ For small and extra small devices :
 [@cryptoswitch/anand](https://anand-cryptoswitch.netlify.app/)
 
 **Github repo : Source code**
-[@cryptoswitch/anand](https://github.com/anandpothraj/CryptoSwitch)
+[@cryptoswitch/github](https://github.com/anandpothraj/CryptoSwitch)
 
 Thanks! Happy Coding......./>
